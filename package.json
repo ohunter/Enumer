@@ -1,8 +1,13 @@
 {
 	"name": "enumer",
 	"displayName": "Enumer",
+	"publisher": "Ohunter",
 	"description": "",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ohunter/Enumer"
+	},
 	"engines": {
 		"vscode": "^1.40.0"
 	},
